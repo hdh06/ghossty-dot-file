@@ -1,6 +1,9 @@
-background-opacity = 0.6
+#background-opacity = 0.6
+
+background-image = "~/Documents/new-mecca-4k.png"
+background-image-opacity = 0.3
 
 font-family = "iosevka"
 
-font-feature=-calt
+font-feature = -calt
 
